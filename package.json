@@ -1,0 +1,14 @@
+{
+    "name": "bakery_website",
+    "version": "1.0.0",
+    "description": "Bakery shop website using Node.js and CSS",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
